@@ -41,7 +41,7 @@ One row per person. The same role may appear on more than one row.
 | Catherine | catherine-burke-10 | Spec Lead |
 | Jordan | JordanRiggs22 | Design Lead |
 | Adan | adanurizar7 | Data Lead |
-| Kennedy | <Kennedy's GitHub username> | Pitch Lead |
+| Kennedy | Kirkkm22 | Pitch Lead |
 
 ## Side quests
 
