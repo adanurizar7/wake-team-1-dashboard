@@ -37,7 +37,11 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-| Catherine | catherine-burke-10 | The Strategist |
+| Ben | jjbenxu | Delivery Lead |
+| Catherine | catherine-burke-10 | Spec Lead |
+| Jordan | JordanRiggs22 | Design Lead |
+| Adan | adanurizar7 | Data Lead |
+| Kennedy | <Kennedy's GitHub username> | Pitch Lead |
 
 ## Side quests
 
