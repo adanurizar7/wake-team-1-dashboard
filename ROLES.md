@@ -37,7 +37,7 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-| | | |
+| Catherine | catherine-burke-10 | The Strategist |
 
 ## Side quests
 
